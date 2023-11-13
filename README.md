@@ -8,3 +8,5 @@ De momento las herramientas que hemos usado son:
 * **MarkedDown**  
 * **GitHub** integrado con _Visual Studio Code_
 * **Visual Studio Code**
+* **FreeCAD**
+* **Icestudio**
